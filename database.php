@@ -1,7 +1,7 @@
 <?php
-$server = 'localhost';
-$username = 'root';
-$password = 'root';
+$server = 'baseserv.mysql.database.azure.com';
+$username = 'myapp@baseserv';
+$password = '2092Acer';
 $database = 'auth';
 
 try{
